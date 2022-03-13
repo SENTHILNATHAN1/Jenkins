@@ -1,0 +1,8 @@
+CI/CD, Jenkins - Introduction 
+3 Different Real-time Jenkins Use cases
+Selenium Tests execution based on Time Scheduler
+API tests execution based on Dev build
+Automated tests based on SCM Trigger
+SCM Trigger vs WebHook
+Best Practices on Jenkins automation Pipeline
+Interview Questions and Q&A
